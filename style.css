@@ -14,7 +14,8 @@
 body {
   margin: 0px;
   padding: 0px;
-  background: url(bg.jpg);
+  /* background: url(bg.jpg); */
+  background-color: #0f1011;
 }
 
 * {
