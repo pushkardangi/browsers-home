@@ -1,8 +1,6 @@
-# Browsers Home
+# Browsers Home <a href="https://browsers-home.netlify.app/"> ![Live Link](https://img.shields.io/badge/live_link-1e394e?style=for-the-badge&logo=&logoColor=white) </a>
 
 Home page for all browsers, all frequently used tools at one place.
-
-<a href="https://browsers-home.netlify.app/"> ![Live Link](https://img.shields.io/badge/live_link-1e394e?style=for-the-badge&logo=&logoColor=white) </a>
 
 <a name="readme-top"></a>
 
