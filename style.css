@@ -91,6 +91,7 @@ a, input {
 
 #search-container > #image-button {  
   border-bottom-right-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
 }
 
 #search-input-container {
@@ -100,6 +101,7 @@ a, input {
   background-color: rgb(255 255 255 / 10%);
   padding-left: 1rem;
   border-radius: 0.2rem;
+  border-top-left-radius: 0.5rem;
   border-bottom-left-radius: 0.5rem;
   width: 100%;
 }
